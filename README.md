@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Rudra
-![octocat-1715940219002](https://github.com/r-u-d-r-a-a/r-u-d-r-a-a/assets/98966726/d069eb25-cc4c-4163-bb42-4f306a653a47)
+
 ---
 <br>
 
