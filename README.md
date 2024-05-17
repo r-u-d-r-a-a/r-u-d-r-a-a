@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-u-d-r-a-a&label=Profile%20views&color=0e75b6&style=flat" alt="r-u-d-r-a-a" /> </p>
 
-- :classical_building: Graduate Student at Northeastern University.
+- :classical_building: Graduate Student at <b>Northeastern University, Boston</b>.
 
 - :seedling: I’m currently learning <b>Microservices with Spring Boot and Spring Cloud</b>
 
