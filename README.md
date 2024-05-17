@@ -1,6 +1,5 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rudra  <img src="![octocat-1715940219002](https://github.com/r-u-d-r-a-a/r-u-d-r-a-a/assets/98966726/d069eb25-cc4c-4163-bb42-4f306a653a47)" align="right" width="450" height="300"/>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rudra  <img src="https://github.com/r-u-d-r-a-a/r-u-d-r-a-a/assets/98966726/d069eb25-cc4c-4163-bb42-4f306a653a47" align="right" width="450" height="300"/>
 
----
 <br>
 
 - 🔭 I’m currently working on <b>Spring Boot and Spring Cloud </b>
