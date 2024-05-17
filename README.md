@@ -1,9 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rudra  <img src="https://github.com/r-u-d-r-a-a/r-u-d-r-a-a/assets/98966726/d069eb25-cc4c-4163-bb42-4f306a653a47" align="right" width="450" height="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-u-d-r-a-a&label=Profile%20views&color=0e75b6&style=flat" alt="r-u-d-r-a-a" /> </p>
-- 🏛️ Graduate Student at <b>Northeastern University, Boston</b>.
+- :classical_building: Graduate Student at <b>Northeastern University, Boston</b>.
 
-- 🌱 I’m currently learning <b>Microservices with Spring Boot and Spring Cloud</b>
+- :seedling: I’m currently learning <b>Microservices with Spring Boot and Spring Cloud</b>
 
 - 💬 Ask me about <b>Frontend Development, JavaScript, React</b>
 
