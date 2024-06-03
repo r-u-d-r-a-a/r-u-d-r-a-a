@@ -9,6 +9,8 @@
 - 💬 Ask me about <b>Frontend Development, JavaScript, React</b>
 
 - 📫 How to reach me: **rudratarte2604@gmail.com**
+  
+- :star: Check out my [website](https://rudratarte.vercel.app/)
 
 <br>
 <br>
