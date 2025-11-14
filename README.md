@@ -4,9 +4,9 @@
 
 - :classical_building: Graduate Student at <b>Northeastern University, Boston</b>.
 
-- :seedling: I’m currently learning <b>Microservices with Spring Boot and Spring Cloud</b>
+- :seedling: I’m currently learning <b>Go, gRPC and Gin</b>
 
-- 💬 Ask me about <b>Frontend Development, JavaScript, React</b>
+- 💬 Ask me about <b>Web Development</b>
 
 - 📫 How to reach me: **rudratarte2604@gmail.com**
   
@@ -20,6 +20,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
